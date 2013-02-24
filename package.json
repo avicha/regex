@@ -1,0 +1,23 @@
+{
+  "name": "yi-regex",
+  "version": "1.0.0",
+  "description": "提供一些常用的正则表达式处理方法",
+  "keywords": [
+    "regex",
+    "node"
+  ],
+  "author": "avicha",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/avicha/regex.git"
+  },
+  "main": "./index",
+  "engines": {
+    "node": ">= 0.4.x"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "coffee-script": "1.4.0"
+  }
+}
